@@ -1,0 +1,19 @@
+.t1{
+    font-size: 16px;
+    padding: 5px;
+    background-color: blue;
+    color:white;
+}
+
+.td1{
+    width: 300px;
+}
+
+body{
+    width:800px;
+    margin:0 auto;
+}
+
+.head1{
+    width:800px;
+}
